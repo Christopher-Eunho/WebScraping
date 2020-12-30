@@ -13,6 +13,6 @@ Used Tool: Selenium Webdriver
       - Enter "activate" in terminal
 
 ⬛ Install Selenium
-    - Enter "pip install selenium" inm terminal
+    - Enter "pip install selenium" in terminal
 
     
