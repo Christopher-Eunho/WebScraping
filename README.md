@@ -2,7 +2,7 @@
 This is a program that scrapes images from Google's image searching.
 Originally made in a virtual environment(Venv) to prevent conflict between versions of modules
 Language: Python 3.8
-Used Tool: Selenium Webdriver 
+Used Tool: Selenium Webdriver(Chrome Driver)
 
 ⬛ Virtual Environment(Venv) Setting  
     1. Create a new folder for Venv in current directory
@@ -14,5 +14,7 @@ Used Tool: Selenium Webdriver
 
 ⬛ Install Selenium
     - Enter "pip install selenium" in terminal
+    
+
 
     
